@@ -1,5 +1,5 @@
-# Complete-Python-Basics
+# Python Repository
 
-## Welcome to the Repository for the Complete Python Basics!
+## Welcome to Sangat's Python Repository!
 
-You may need jupyter notebook to view these files
+Feel Free to browse and contribute to this repository
